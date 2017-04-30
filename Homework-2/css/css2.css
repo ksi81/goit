@@ -1,0 +1,11 @@
+.paragraf{font-style: italic;
+}
+
+sub {font-style: normal;
+color: blue;
+}
+sup {
+  font-style: normal;
+  color: red;
+}
+span {font-style: italic;}

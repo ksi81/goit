@@ -1,0 +1,57 @@
+.body {background-color: blue;
+  color: white;
+}
+li {font-size: 35px;
+
+}
+
+h2 {background: red;
+width: 120px;
+color: white;
+}
+.hr{
+  width: 400px;
+
+}
+p {
+  background: #6e38d4;
+width: 350px;
+height: 60px;
+}
+
+.secondp {
+  background: yellow;
+width: 350px;
+height: 40px;
+}
+
+.one {
+  background: red;
+width: 70px;
+height: 50px;}
+
+.two {
+  background: orange;
+width: 140px;
+height: 50px;}
+.three {
+  background: #403e9a;
+width: 200px;
+height: 50px;}
+
+.new {
+  font-size: 70px;
+  background: rgb(212, 97, 23);
+width: 330px;
+height: 130px;
+padding: 20px 50px;
+}
+A {
+  color: white; /* Цвет ссылок */
+ }
+ A:visited {
+  color: green; /* Цвет посещенных ссылок */
+ }
+ A:active {
+  color: #ffff00; /* Цвет активных ссылок */
+ }

@@ -1,0 +1,23 @@
+
+.h1 {color: #8B4513;}
+.h2 {color: black;}
+.h3 {color: #A0522D;}
+
+.homework5 {
+  background: #FAFAD2;
+  width: 500px;
+  height: 200px;
+}
+A {
+  color: green; /* Цвет ссылок */
+ }
+ A:visited {
+  color: green; /* Цвет посещенных ссылок */
+ }
+ A:active {
+  color: #ffff00; /* Цвет активных ссылок */
+ }
+ sub {
+   font-style: italic;
+ }
+sup {font-style: italic;}
