@@ -1,4 +1,7 @@
 .paragraf{font-style: italic;
+  border-style: dashed;
+  margin-right: 1000px;
+  /*border: dashed;*/
 }
 
 sub {font-style: normal;
